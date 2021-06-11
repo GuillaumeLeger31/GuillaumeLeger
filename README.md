@@ -30,7 +30,7 @@ I am a junior web Developer. I am passionate about technologies and science and 
 
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-<br>
+
 
 ## 📫 Get in touch
 
