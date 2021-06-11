@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/GuillaumeLeger31/GuillaumeLeger/main/gif/Hi.gif" width="30px">Hi, I am Guillaume  👨‍💻
 
-I am a junior web Developer. I am passionate about technologies and science and love to learn new things.<br>
+I am a junior web Developer. I am passionate about technologies & science and love to learn new things.<br>
 
 
 ## ⚡ Languages and tools 
