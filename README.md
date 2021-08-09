@@ -7,7 +7,7 @@ I am a junior web Developer. I am passionate about technologies & science and lo
 
 <br>
 
-Currently learning https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+Currently learning ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
