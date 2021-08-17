@@ -5,7 +5,7 @@ I am a junior web Developer. I am passionate about technologies & science and lo
 
 ## ⚡ Languages and tools 
 
-Currently learning php.
+I'm currently learning php.
 
 <br>
 
