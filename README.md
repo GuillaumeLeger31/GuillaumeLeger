@@ -24,6 +24,7 @@ I am a junior web Developer. I am passionate about technologies & science and lo
 <br>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SYMFONY](https://img.shields.io/badge/Symfony-404D59?style=for-the-badge)
 
 <br>
 
